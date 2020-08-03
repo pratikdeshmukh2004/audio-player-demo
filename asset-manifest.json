@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/audio-player-demo/static/css/main.f35b6b1f.chunk.css",
-    "main.js": "/audio-player-demo/static/js/main.6f7a6dcd.chunk.js",
-    "main.js.map": "/audio-player-demo/static/js/main.6f7a6dcd.chunk.js.map",
+    "main.js": "/audio-player-demo/static/js/main.033bd7e5.chunk.js",
+    "main.js.map": "/audio-player-demo/static/js/main.033bd7e5.chunk.js.map",
     "runtime-main.js": "/audio-player-demo/static/js/runtime-main.8a92c833.js",
     "runtime-main.js.map": "/audio-player-demo/static/js/runtime-main.8a92c833.js.map",
-    "static/js/2.92592528.chunk.js": "/audio-player-demo/static/js/2.92592528.chunk.js",
-    "static/js/2.92592528.chunk.js.map": "/audio-player-demo/static/js/2.92592528.chunk.js.map",
+    "static/js/2.3711fd36.chunk.js": "/audio-player-demo/static/js/2.3711fd36.chunk.js",
+    "static/js/2.3711fd36.chunk.js.map": "/audio-player-demo/static/js/2.3711fd36.chunk.js.map",
     "index.html": "/audio-player-demo/index.html",
-    "precache-manifest.ab027e9f2b8ac0db2e039c3e9053bba0.js": "/audio-player-demo/precache-manifest.ab027e9f2b8ac0db2e039c3e9053bba0.js",
+    "precache-manifest.7b3e6438a92c75a820d8238ba3b6d023.js": "/audio-player-demo/precache-manifest.7b3e6438a92c75a820d8238ba3b6d023.js",
     "service-worker.js": "/audio-player-demo/service-worker.js",
     "static/css/main.f35b6b1f.chunk.css.map": "/audio-player-demo/static/css/main.f35b6b1f.chunk.css.map",
-    "static/js/2.92592528.chunk.js.LICENSE.txt": "/audio-player-demo/static/js/2.92592528.chunk.js.LICENSE.txt"
+    "static/js/2.3711fd36.chunk.js.LICENSE.txt": "/audio-player-demo/static/js/2.3711fd36.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8a92c833.js",
-    "static/js/2.92592528.chunk.js",
+    "static/js/2.3711fd36.chunk.js",
     "static/css/main.f35b6b1f.chunk.css",
-    "static/js/main.6f7a6dcd.chunk.js"
+    "static/js/main.033bd7e5.chunk.js"
   ]
 }
